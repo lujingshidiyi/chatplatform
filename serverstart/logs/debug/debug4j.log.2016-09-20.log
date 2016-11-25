@@ -1,0 +1,47 @@
+2016-09-20 16:36:55  [ Thread-0:0 ] - [ INFO ]  [连接成功]Socket[addr=/127.0.0.1,port=55521,localport=9090]
+2016-09-20 16:37:01  [ Thread-1:5217 ] - [ INFO ]  接收到Socket[addr=/127.0.0.1,port=55521,localport=9090]:Socket[addr=/127.0.0.1,port=55521,localport=9090](2016-09-20 16:37:01)
+123
+
+2016-09-20 17:46:30  [ Thread-0:0 ] - [ INFO ]  [连接成功]userId:5b9301f05b1342cd86703ac75c785307userName:5b9301f05b1342cd86703ac75c785307userSocket:Socket[addr=/127.0.0.1,port=56288,localport=9090]
+2016-09-20 17:46:34  [ Thread-1:3740 ] - [ INFO ]  接收到Socket[addr=/127.0.0.1,port=56288,localport=9090]:Socket[addr=/127.0.0.1,port=56288,localport=9090](2016-09-20 17:46:34)
+qwa
+
+2016-09-20 17:47:53  [ Thread-1:82953 ] - [ INFO ]  接收到Socket[addr=/127.0.0.1,port=56288,localport=9090]:Socket[addr=/127.0.0.1,port=56288,localport=9090](2016-09-20 17:47:53)
+qwa
+
+2016-09-20 18:35:02  [ Thread-0:0 ] - [ INFO ]  [连接成功]userId:8dc7f445d5234ed08f5cc357736edcd9userName:8dc7f445d5234ed08f5cc357736edcd9userSocket:Socket[addr=/127.0.0.1,port=56683,localport=9090]
+2016-09-20 18:35:05  [ Thread-1:3390 ] - [ INFO ]  接收到Socket[addr=/127.0.0.1,port=56683,localport=9090]:Socket[addr=/127.0.0.1,port=56683,localport=9090](2016-09-20 18:35:05)
+请问
+
+2016-09-20 18:45:36  [ Thread-0:0 ] - [ INFO ]  [连接成功]userId:c12478d582ae4dd28c9ae03236a3bf4auserName:c12478d582ae4dd28c9ae03236a3bf4auserSocket:Socket[addr=/127.0.0.1,port=56715,localport=9090]
+2016-09-20 18:50:07  [ Thread-0:0 ] - [ INFO ]  [连接成功]userId:97e161ed125246a6947c028570ba9a30userName:97e161ed125246a6947c028570ba9a30userSocket:Socket[addr=/127.0.0.1,port=56730,localport=9090]
+2016-09-20 18:50:12  [ Thread-1:4777 ] - [ INFO ]  接收到97e161ed125246a6947c028570ba9a30:Socket[addr=/127.0.0.1,port=56730,localport=9090](2016-09-20 18:50:12)
+qwe
+
+2016-09-20 18:52:10  [ Thread-1:122866 ] - [ INFO ]  接收到97e161ed125246a6947c028570ba9a30:Socket[addr=/127.0.0.1,port=56730,localport=9090](2016-09-20 18:52:09)
+123
+
+2016-09-20 18:52:51  [ Thread-0:0 ] - [ INFO ]  [连接成功]userId:00e71b0ec3394f95bb8ef69ebe7f2bafuserName:00e71b0ec3394f95bb8ef69ebe7f2bafuserSocket:Socket[addr=/127.0.0.1,port=56757,localport=9090]
+2016-09-20 18:53:05  [ Thread-0:14377 ] - [ INFO ]  [连接成功]userId:fba817ca90b749afa14a57e68ea8d8fbuserName:fba817ca90b749afa14a57e68ea8d8fbuserSocket:Socket[addr=/127.0.0.1,port=56765,localport=9090]
+2016-09-20 18:53:14  [ Thread-2:23336 ] - [ INFO ]  接收到fba817ca90b749afa14a57e68ea8d8fb:qwe
+2016-09-20 18:53:14  [ Thread-2:23338 ] - [ INFO ]  输出到Socket[addr=/127.0.0.1,port=56757,localport=9090]:Socket[addr=/127.0.0.1,port=56765,localport=9090](2016-09-20 18:53:14)
+qwe
+
+2016-09-20 18:53:20  [ Thread-1:29887 ] - [ INFO ]  接收到00e71b0ec3394f95bb8ef69ebe7f2baf:1222
+2016-09-20 18:53:20  [ Thread-1:29888 ] - [ INFO ]  输出到Socket[addr=/127.0.0.1,port=56765,localport=9090]:Socket[addr=/127.0.0.1,port=56757,localport=9090](2016-09-20 18:53:20)
+1222
+
+2016-09-20 18:53:46  [ Thread-1:55830 ] - [ INFO ]  接收到00e71b0ec3394f95bb8ef69ebe7f2baf:ll
+2016-09-20 18:53:46  [ Thread-1:55831 ] - [ INFO ]  输出到Socket[addr=/127.0.0.1,port=56765,localport=9090]:Socket[addr=/127.0.0.1,port=56757,localport=9090](2016-09-20 18:53:46)
+ll
+
+2016-09-20 18:53:50  [ Thread-2:59214 ] - [ INFO ]  接收到fba817ca90b749afa14a57e68ea8d8fb:oll
+2016-09-20 18:53:50  [ Thread-2:59215 ] - [ INFO ]  输出到Socket[addr=/127.0.0.1,port=56757,localport=9090]:Socket[addr=/127.0.0.1,port=56765,localport=9090](2016-09-20 18:53:50)
+oll
+
+2016-09-20 18:55:32  [ Thread-0:0 ] - [ INFO ]  [连接成功]userId:efc79913be134acca1335c0b835d8bdeuserName:efc79913be134acca1335c0b835d8bdeuserSocket:Socket[addr=/127.0.0.1,port=56799,localport=9090]
+2016-09-20 18:55:36  [ Thread-0:3955 ] - [ INFO ]  [连接成功]userId:104663444d274cc79d1361795254fa50userName:104663444d274cc79d1361795254fa50userSocket:Socket[addr=/127.0.0.1,port=56803,localport=9090]
+2016-09-20 18:55:42  [ Thread-1:9900 ] - [ INFO ]  接收到efc79913be134acca1335c0b835d8bde:lujign
+2016-09-20 18:55:45  [ Thread-2:13046 ] - [ INFO ]  接收到104663444d274cc79d1361795254fa50:niho
+2016-09-20 18:55:49  [ Thread-2:17030 ] - [ INFO ]  接收到104663444d274cc79d1361795254fa50:lujing
+2016-09-20 18:58:39  [ Thread-1:186655 ] - [ INFO ]  接收到efc79913be134acca1335c0b835d8bde:aa

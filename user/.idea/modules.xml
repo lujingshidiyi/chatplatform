@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../contactutils/contactutils.iml" filepath="$PROJECT_DIR$/../contactutils/contactutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../log/log.iml" filepath="$PROJECT_DIR$/../log/log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serverstart.iml" filepath="$PROJECT_DIR$/serverstart.iml" />
+    </modules>
+  </component>
+</project>
